@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/ARMmbed/omniauth-mbed
+  revision: db6e758a4df8bd5c2ebe0cbb3133732748fbe9c9
+  tag: v0.2.1
+  specs:
+    omniauth-mbed (0.2.1)
+      omniauth-oauth2
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -795,6 +803,7 @@ DEPENDENCIES
   omniauth-gitlab
   omniauth-google-oauth2
   omniauth-kerberos
+  omniauth-mbed!
   omniauth-saml
   omniauth-shibboleth
   omniauth-twitter
