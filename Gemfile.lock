@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/ARMmbed/omniauth-mbed
-  revision: 49e401838e0f36499a622cd105c9ea643068d852
-  tag: v0.2.2
+  revision: 63ff789af6b40f74c6f605c6f2fddf16a7afe8ad
+  tag: v0.2.3
   specs:
-    omniauth-mbed (0.2.2)
+    omniauth-mbed (0.2.3)
       omniauth-oauth2
 
 GEM
