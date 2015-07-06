@@ -14,7 +14,7 @@ gem "devise", '3.2.4'
 gem "devise-async", '0.9.0'
 gem 'omniauth', "~> 1.2.2"
 gem 'omniauth-google-oauth2'
-gem 'omniauth-mbed', :git => 'https://github.com/ARMmbed/omniauth-mbed', :tag => 'v0.2.1'
+gem 'omniauth-mbed', :git => 'https://github.com/ARMmbed/omniauth-mbed', :tag => 'v0.2.2'
 gem 'omniauth-twitter'
 gem 'omniauth-github'
 gem 'omniauth-shibboleth'
